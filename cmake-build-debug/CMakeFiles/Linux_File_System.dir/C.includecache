@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mmuazekici/CLionProjects/Linux File System/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+sys/time.h
+-
+time.h
+-
+

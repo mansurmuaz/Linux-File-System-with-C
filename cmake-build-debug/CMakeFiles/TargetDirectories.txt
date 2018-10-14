@@ -1,0 +1,3 @@
+/home/mmuazekici/CLionProjects/Linux File System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mmuazekici/CLionProjects/Linux File System/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mmuazekici/CLionProjects/Linux File System/cmake-build-debug/CMakeFiles/Linux_File_System.dir
